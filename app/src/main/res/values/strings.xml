@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MAD_Assignment_2</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_search_response_view_model">SearchResponseViewModel</string>
+    <string name="title_activity_remote_utilities1">RemoteUtilities1</string>
+    <string name="title_activity_apisearch_thread">APISearchThread</string>
+    <string name="title_activity_data_view_model">DataViewModel</string>
+    <string name="title_activity_error_view_model">ErrorViewModel</string>
+    <string name="title_activity_image_retrieval_thread">ImageRetrievalThread</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
